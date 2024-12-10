@@ -1,4 +1,4 @@
-#Ivan Adame's Portfolio
+# Ivan Adame's Portfolio
 
 I am a Computer Science major planning to graudate in 2028.
 
@@ -13,4 +13,4 @@ Lab 7
     This is my second favorite lab because I was able to understand the lab and almost complete it on my own. It gave me slight issues which taught me different ways to write a line of code to get the same result. It was another highly information lab for me which helped me better grasp the concepts we were learning. 
 	
 Lab 2
-    This is my third favorite lab because looking back at it with what I know now it seems so easy. When I first worked on this lab I was not sure what we were doing and it was the lab that introduced me to the start of Computer Science. I feel like it is great to see where we started and seeing what we know now, building the foundation of our future career. 
+    This is my third favorite lab because looking back at it with what I know now it seems so easy. When I first worked on this lab I was not sure what we were doing and it was the lab that introduced me to the start of Computer Science. I feel like it is great to see where we started and seeing what we know now, building the foundation of our future career.
